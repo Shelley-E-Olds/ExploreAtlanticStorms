@@ -38,8 +38,8 @@ You'll need to run the code cell below this first section (with the white backgr
 [Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
 [About Jupyter](https://jupyter.org/)
 [Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
-###### tutorials for self exploration (to be added)
-* [ESIPhub Quickstart](shared/Quickstart.md)
+###### tutorials for self exploration (to be added to)
+* [Colaboratory Getting Started](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/b4/ESIPhubQuickStart.pptx)
 
 ## Workshop
