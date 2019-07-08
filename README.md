@@ -9,24 +9,10 @@ The name <b>Jupyter</b> refers to the three coding languages, <b>Julia, Python, 
 
 For this workshop, we are using Google Colaboratory which is a Jupyter notebook environment that requires no setup to use.
 
-## Presentations
-
-#####  Overview of session
+####  Overview of workshop session
 * [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/ab/MILESsessionOverview.pptx)
 
-##### tutorials for self exploration (to be added)
-* [ESIPhub Quickstart](shared/Quickstart.md)
-* [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/b4/ESIPhubQuickStart.pptx)
-
-## Workshop
-
-Time to dive in! First click this link to open Collaboratory:
-
-* [Google Collaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
-* Now scroll up to the top of the Github repository (this page). In upper right there is a 
-
-
-## Getting started
+#### Before we begin
 
 *REWRITE THESE INSTRUCTIONS!*
 1. (how do we do this in coLab - should we have them do the equivalent? Restart Runtime ) When you first open a Jupyter notebook, it's a best practice to select: <b>Kernel > Restart Kernel and Clear All Outputs</b>. This command ensures that the notebook is in an "unused" state. 
@@ -37,7 +23,7 @@ Time to dive in! First click this link to open Collaboratory:
 
 You'll need to run the code cell below this first section (with the white background) to load essential information into your notebook. 
 
-#### TO RUN ANY CELL
+##### TO RUN ANY CELL
 
 1. There are grey sections on this page that can be executed (played)
 
@@ -47,6 +33,25 @@ You'll need to run the code cell below this first section (with the white backgr
 
 
 > While you run or "execute" a cell, an square appears inside the bracket to the left of the cell and a circle appears to spin. Once the code has run, the square will be replaced by a number in the brackets.
+
+##### Additional resources for further exploration
+[Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
+[About Jupyter](https://jupyter.org/)
+[Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
+###### tutorials for self exploration (to be added)
+* [ESIPhub Quickstart](shared/Quickstart.md)
+* [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/b4/ESIPhubQuickStart.pptx)
+
+## Workshop
+
+Time to dive in!
+
+* Scroll up to the top of the Github repository (this page). In the upper right there is a green box that says clone or download. Click it, then copy the url to your clipboard via the clipboard icon to the right of the url or by any other method you prefer. You can use this method to import any Github repository!
+
+* Now click this link to open Colaboratory:
+
+[Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
+
 
 ### Notebooks
 
@@ -69,6 +74,8 @@ You'll need to run the code cell below this first section (with the white backgr
 ## Discussion / Questions / self-guided exploration
 
 #### Bibliography
+
+Need to replace current lines for repo, colab, data, original notebook, etc
 
 * ESIPhub: Supporting Interactive Geoscience Workshops. (2018). HCL, National Data Service. Retrieved from https://github.com/nds-org/esiphub (Original work published 2018)
 * Gordon, S. (2018). MILES: Metadata Improvement Lab at ESIP: schema.org for datasets. Python. Retrieved from https://github.com/scgordon/MILES (Original work published 2018)
