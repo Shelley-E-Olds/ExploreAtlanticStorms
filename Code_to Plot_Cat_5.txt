@@ -1,0 +1,31 @@
+# Example: Plot the data for hurricanes that hit category 5
+category_color = {5:'red', 4:'yellow', 3:'orange', 2:'green', 1:'blue', 0:'gray'}
+fig = plt.figure(figsize=(15,9))
+axes = fig.add_subplot(1, 1, 1)
+mapping = Basemap(llcrnrlon=-100.0, llcrnrlat=0.0, urcrnrlon=-20.0, urcrnrlat=57.0,
+                  projection='lcc', lat_1=20.0, lat_2=40.0, lon_0=-60.0,
+                  resolution ='l', area_thresh=1000.0)
+
+for (name, data) in hurricanes.items():
+    try:
+        
+        if numpy.any(numpy.array(data['category']) >= 5):
+                longitude, latitude = mapping(data['longitude'], data['latitude'])
+                
+                for i in range(len(longitude) - 1):
+                    color = category_color[data['category'][i]]
+                    mapping.plot(longitude[i:i+2], latitude[i:i+2], linewidth=1.5, color=color)         
+    
+    except Exception as e:
+        print() # todo: the exception should be handled some other way
+        
+mapping.drawcoastlines()
+mapping.drawcountries()
+mapping.fillcontinents()
+mapping.drawparallels(numpy.arange(10,70,20), labels=[1,1,0,0])
+mapping.drawmeridians(numpy.arange(-100,0,20), labels=[0,0,0,1])
+axes.set_title('Atlantic Hurricane Tracks (1950-2017)')
+for (category, color) in category_color.items():
+    axes.plot([0], [0], color=color, label="Category %s" % category)
+axes.legend(loc=2)
+plt.show()
