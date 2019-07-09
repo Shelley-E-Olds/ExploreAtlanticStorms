@@ -12,13 +12,7 @@ For this workshop, we are using Google Colaboratory which is a Jupyter notebook 
 ####  Overview of workshop session
 * [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/ab/MILESsessionOverview.pptx)
 
-##### Additional resources for further exploration
-* [Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
-* [About Jupyter](https://jupyter.org/)
-* [Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
-###### tutorials for self exploration
-* [Colaboratory Getting Started](https://colab.research.google.com/notebooks/welcome.ipynb)
-* [Colaboratory Tutorial](https://medium.com/@rohansingh_46766/getting-started-with-google-colaboratory-57b4863d4d7d)
+
 
 ## Workshop
 
@@ -52,6 +46,14 @@ Time to dive in!
 * Use Google's [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) to test results
 
 ## Discussion / Questions / self-guided exploration
+
+##### Additional resources for further exploration
+* [Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
+* [About Jupyter](https://jupyter.org/)
+* [Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
+###### tutorials for self exploration
+* [Colaboratory Getting Started](https://colab.research.google.com/notebooks/welcome.ipynb)
+* [Colaboratory Tutorial](https://medium.com/@rohansingh_46766/getting-started-with-google-colaboratory-57b4863d4d7d)
 
 #### Bibliography
 
