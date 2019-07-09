@@ -24,7 +24,9 @@ For this workshop, we are using Google Colaboratory which is a Jupyter notebook 
 
 Time to dive in!
 
-* Scroll up to the top of the Github repository (this page). In the upper right there is a green box that says clone or download. Click it, then copy the url to your clipboard via the clipboard icon to the right of the url or by any other method you prefer. You can use this method to import any Github repository!
+* Scroll up to the top of the Github repository (this page). In the upper right there is a green box that says clone or download. Click it, then copy the url to your clipboard via the clipboard icon to the right of the url or by any other method you prefer. You can use this method to import any Github repository! 
+
+!git clone
 
 * Now click this link to open Colaboratory:
 
