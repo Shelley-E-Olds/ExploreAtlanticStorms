@@ -12,35 +12,13 @@ For this workshop, we are using Google Colaboratory which is a Jupyter notebook 
 ####  Overview of workshop session
 * [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/ab/MILESsessionOverview.pptx)
 
-#### Before we begin
-
-*REWRITE THESE INSTRUCTIONS!*
-1. (how do we do this in coLab - should we have them do the equivalent? Restart Runtime ) When you first open a Jupyter notebook, it's a best practice to select: <b>Kernel > Restart Kernel and Clear All Outputs</b>. This command ensures that the notebook is in an "unused" state. 
-
-2. (they don't / can't save - you can go through the Revision History to step back to a previous version) To preserve a clean copy of the notebook, select <b>File > Save Notebook As...</b> and give it a new name. You'll work in the newly named notebook.
-
-3. Usually, the very first cell of a notebook is a code cell that imports necessary coding libraries and tools. In this notebook, you're reading a text cell that is right above the first code cell. 
-
-You'll need to run the code cell below this first section (with the white background) to load essential information into your notebook. 
-
-##### TO RUN ANY CELL
-
-1. There are grey sections on this page that can be executed (played)
-
-2. Hover over the  [   ] symbol, notice that it turns into a play symbol
-
-3. Click the "play" button (arrow pointing right) at the top of the page. 
-
-
-> While you run or "execute" a cell, an square appears inside the bracket to the left of the cell and a circle appears to spin. Once the code has run, the square will be replaced by a number in the brackets.
-
 ##### Additional resources for further exploration
-[Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
-[About Jupyter](https://jupyter.org/)
-[Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
-###### tutorials for self exploration (to be added to)
+* [Google Colaboratory FAQs](https://research.google.com/colaboratory/faq.html)
+* [About Jupyter](https://jupyter.org/)
+* [Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
+###### tutorials for self exploration
 * [Colaboratory Getting Started](https://colab.research.google.com/notebooks/welcome.ipynb)
-* [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/b4/ESIPhubQuickStart.pptx)
+* [Colaboratory Tutorial](https://medium.com/@rohansingh_46766/getting-started-with-google-colaboratory-57b4863d4d7d)
 
 ## Workshop
 
