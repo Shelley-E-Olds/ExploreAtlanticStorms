@@ -1,7 +1,5 @@
 # Explore Atlantic Storms
-
-A repository designed to facilitate exploration of hurricane data by STEM teachers attending the ESIP Education Committee's Summer Workshop. Participants will explore the notebook, ExploreAtlanticStorms.ipny, to plot hurricane tracks and intensities and plot graphs using simple statistics. The repository uses Python code in a Jupyter Notebook to explore hurricanes in the Atlantic through a computational narrative.
-
+A repository designed to facilitate exploration of hurricane data by STEM teachers attending the ESIP Education Committee's Summer Workshop. Participants will explore the notebook, ExploreAtlanticStorms,ipny, to plot hurricane tracks and intensities and plot graphs using simple statistics. The repository uses Python code in a Jupyter Notebook to explore hurricanes in the Atlantic through a computational narrative.
 
 ## Welcome
 
@@ -35,10 +33,6 @@ Time to dive in!
 * why you and your students will care
 * what you'll accomplish
 * what you'll see
-
-
-"walk students through some basic visualizations and data analysis encouraging students to change the code displayed to answer questions such as “Where did Hurricane Sandy go?” and “What storms occurred during 1981?”. This includes a number of visualizations of hurricane tracks, coloring by strength of storms, and an analysis of average number of storms per year. "
-
 
 ##### [Data Scrubber Notebook](./data_scrubber.ipynb)
 * where the data was retrieved from
