@@ -5,16 +5,23 @@ A repository designed to facilitate exploration of hurricane data by STEM teache
 
 ## Welcome
 
-This repository is reproducible through <b>Jupyter Notebooks</b>: documents that can contain cells of executable code, equations, visualizations, and narrative text. It's like having a single document that handles word processing (such as  Word), math functions (such as Excel), image generation and display, and an interface for coding.
+This repository is reproducible through **Jupyter Notebook**: documents that can contain cells of executable code, equations, visualizations, and narrative text. It's like having a single document that handles word processing (such as  Word), math functions (such as Excel), image generation and display, and an interface for coding.
 
-The name <b>Jupyter</b> refers to the three coding languages, <b>Julia, Python, and R</b>, that are pillars of the modern scientific world. 
+The name **Jupyter** refers to the three coding languages, **Julia, Python, and R**, that are pillars of the modern scientific world. 
 
 For this workshop, we are using Google Colaboratory which is a Jupyter notebook environment that requires no setup to use.
 
 ####  Overview of workshop session
 * [Slides](https://schd.ws/hosted_files/2018esipsummermeeting/ab/MILESsessionOverview.pptx)
 
+Your Python environment requires the following:
 
+* [python](https://python.org) >=3.6
+* [numpy](https://numpy.org) >= 1.16.4
+* [matplotlib](https://matplotlib.org) >= 3.1.1
+* [basemap](http://matplotlib.org/basemap) >= 1.2.0
+
+This workshop has been tested in [Jupyter](https://jupyter.org) >= 4.4.0 and Google colaboratory.
 
 ## Workshop
 
