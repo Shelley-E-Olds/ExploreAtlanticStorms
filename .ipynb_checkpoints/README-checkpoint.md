@@ -1,5 +1,5 @@
 # Explore Atlantic Storms
-A repository designed to facilitate exploration of geoscience by STEM teachers attending the ESIP Education Cluster's Summer Workshop. The repository uses Python code in a Jupyter Notebook to explore hurricanes in the Atlantic through a computational narrative.
+A repository designed to facilitate exploration of hurricane data by STEM teachers attending the ESIP Education Committee's Summer Workshop. Participants will explore the notebook, ExploreAtlanticStorms,ipny, to plot hurricane tracks and intensities and plot graphs using simple statistics. The repository uses Python code in a Jupyter Notebook to explore hurricanes in the Atlantic through a computational narrative.
 
 ## Welcome
 
