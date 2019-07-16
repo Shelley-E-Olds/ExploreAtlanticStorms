@@ -29,30 +29,31 @@ Time to dive in!
 
 * Scroll up to the top of the Github repository (this page). In the upper right there is a green box that says clone or download. Click it, then copy the url to your clipboard via the clipboard icon to the right of the url or by any other method you prefer. You can use this method to import any Github repository! 
 
+```bash
 !git clone
+```
 
 * Now click this link to open Colaboratory:
 
 [Google Colaboratory](https://colab.research.google.com/notebook#create=true&language=python3)
 
-
 ### Notebooks
 
-##### [Atlantic Storms Notebook](./15May_atlantic_storms.ipynb)
+##### [Atlantic Storms Notebook](./ExploreAtlanticStorms.ipynb) ([NBViewer Link](https://nbviewer.jupyter.org/github/Shelley-E-Olds/ExploreAtlanticStorms/blob/master/explanation_of_initial_python_imports.ipynb))
 * why you and your students will care
 * what you'll accomplish
 * what you'll see
 
 
-"walk students through some basic visualizations and data analysis encouraging students to change the code displayed to answer questions such as “Where did Hurricane Sandy go?” and “What storms occurred during 1981?”. This includes a number of visualizations of hurricane tracks, coloring by strength of storms, and an analysis of average number of storms per year. "
+"walk students through some basic visualizations and data analysis encouraging students to change the code displayed to answer questions such as “Where did Hurricane Sandy go?” and “What storms occurred during 1981?”. This includes a number of visualizations of hurricane tracks, coloring by strength of storms, and an analysis of average number of storms per year."
 
 
-##### [Data Scrubber Notebook](./data_scrubber.ipynb)
+##### [Data Scrubber Notebook](./data_scrubber.ipynb) ([NBViewer Link](https://nbviewer.jupyter.org/github/Shelley-E-Olds/ExploreAtlanticStorms/blob/master/data_scrubber.ipynb))
 * where the data was retrieved from
 * why we had to scrub the data
 * how the data was normalized
 
-##### [Explaining Python Imports](./explanation_of_initial_python_imports)
+##### [Explaining Python Imports](./explanation_of_initial_python_imports.ipynb) ([NBViewer Link](https://nbviewer.jupyter.org/github/Shelley-E-Olds/ExploreAtlanticStorms/blob/master/explanation_of_initial_python_imports.ipynb))
 * Create csv with recommendation concept content for the collection 
 * translate concept names into the schema.org vocabulary
 * create valid JSON-LD for a record
@@ -80,5 +81,4 @@ Need to replace current lines for repo, colab, data, original notebook, etc
 * JupyterLab Documentation — JupyterLab 1.0 Beta documentation. (n.d.). Retrieved July 15, 2018, from http://jupyterlab.readthedocs.io/en/stable/
 * Structured Data Testing Tool. (n.d.). Retrieved July 16, 2018, from https://search.google.com/structured-data/testing-tool/u/0/
 
-
-
+This notebook was inspired by: []()
