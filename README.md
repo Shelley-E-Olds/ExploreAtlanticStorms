@@ -39,7 +39,7 @@ Time to dive in!
 
 ### Notebooks
 
-##### [Atlantic Storms Notebook](./ExploreAtlanticStorms.ipynb) ([NBViewer Link](https://nbviewer.jupyter.org/github/Shelley-E-Olds/ExploreAtlanticStorms/blob/master/explanation_of_initial_python_imports.ipynb))
+##### [Atlantic Storms Notebook](./ExploreAtlanticStorms.ipynb) ([NBViewer Link](https://nbviewer.jupyter.org/github/Shelley-E-Olds/ExploreAtlanticStorms/blob/master/ExploreAtlanticStorms.ipynb))
 * why you and your students will care
 * what you'll accomplish
 * what you'll see
