@@ -30,7 +30,7 @@ We are using Google Colaboratory for this workshop. You need to have a Google ac
 * Select <b>ExploreAtlanticStorms.ipynb</b>
 
 
-### This notebook was inspired by... 
+### Citation: [This notebook was inspired by... ]
 
 * Explore Atlantic Storms Notebook is based on a notebook created by [Mandli](https://github.com/applied-math/demos) with modifications made by LuAnn Dahlman, Shelley Olds, Keith Maul, and Sean Gordon.
 
